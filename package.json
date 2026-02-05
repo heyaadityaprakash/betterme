@@ -1,0 +1,13 @@
+{
+  "name": "betterme",
+  "version": "0.1.0",
+  "private": true,
+  "main": "App.js",
+  "scripts": {
+    "start": "echo 'Use this App.js in your React Native or Expo project and run with your preferred starter.'"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.73.0"
+  }
+}
